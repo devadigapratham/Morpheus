@@ -1,9 +1,6 @@
-Sure! Here's a sample `README.md` file for your neural network visualizer project using Raylib in C and WebAssembly:
+# Morpheus : A Neural Network Visualizer
 
-```markdown
-# Neural Network Visualizer
-
-Welcome to the Neural Network Visualizer project! This project aims to provide an interactive, real-time visualization of neural network architectures using Raylib in C, compiled to WebAssembly (WASM) for seamless browser integration. The visualizer is designed to be an open-source tool that can render various neural network structures with clear, interactive features.
+!This project aims to provide an interactive, real-time visualization of neural network architectures using Raylib in C, compiled to WebAssembly (WASM) for seamless browser integration. The visualizer is designed to be an open-source tool that can render various neural network structures with clear, interactive features.
 
 ## Features
 
